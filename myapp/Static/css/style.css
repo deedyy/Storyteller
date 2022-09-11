@@ -1,0 +1,162 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+p{
+  color: rgb(51, 51, 51);
+  line-height: 27px;
+  font-size: 14px;
+}
+
+header{
+  display: flex;width: 100%;
+  border: 1px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+
+}
+.navbar{
+  display: flex; width: 45%; justify-content: space-around;
+  align-items: center;
+  margin-bottom: 0px;
+
+}
+.navbar a{
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(235, 235, 235);
+}
+
+.navbar input[type=text] {
+  float:left;
+  padding: 6px 6px;
+  border: none;
+  margin-top: 13px;
+  margin-bottom: 16px;
+  font-size:14px
+}
+.hello{
+  height: 300px;
+  border: 1px ;
+  position: relative;
+  text-align: center;
+  color:black;
+  margin-top: 0px;
+
+}
+
+.centered{
+  position: absolute;
+  top: 30%;
+  left: 60%;
+}
+.we{
+  text-align: center;
+  text-decoration-style: solid;
+  font-size: 50px;
+  margin-top: 0px;
+  width: 500px;
+  margin-left: 30%;
+  color: rgb(40, 40, 40);
+}
+.visual{
+  display: flex;justify-content: space-around;align-items: center;
+  margin-right: 1rem;
+  width: 100%;
+}
+
+
+.visual-text{
+  width: 50%;
+  padding: 1rem;
+  margin-left: 1rem;
+
+}
+.story{
+  margin-top: 0px;
+  padding: 1rem;
+
+}
+
+.top{
+  text-align: center;
+  text-decoration-style: solid;
+  font-size: 50px;
+  margin-top: 0px;
+  width: 500px;
+  margin-left: 30%;
+  color: rgb(40, 40, 40);
+
+}
+
+.footer{
+  display: flex; flex-direction: row;justify-content: space-around; align-items: baseline;
+  margin-bottom: 150px;
+  
+
+}
+
+.premium a {
+  text-decoration: none;
+    font-size: 14px;
+    color: rgb(235, 235, 235);
+    list-style-type: none;
+  
+  
+}
+.fresh a {
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(235, 235, 235);
+    list-style-type: none;
+  
+}
+.blog a {
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(235, 235, 235);
+  list-style-type: none;
+
+
+}
+.touch a {
+  text-decoration: none;
+  font-size: 14px;
+  color: rgb(235, 235, 235);
+  list-style-type: none;
+  margin-right: 60px;
+  
+}
+
+.monday{
+  display: flex;flex-direction: row; width: 100%; justify-content: space-around;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.privacy{
+  background-color:teal;
+  height: 300px;
+  margin-top: 50px;
+  width: 100%;
+  padding: 2em;
+  color: blanchedalmond;
+  
+}
+.small{
+  display: flex; flex-direction: row;justify-content: space-around; width: 100%;
+  color: blanchedalmond;
+  
+  
+}
+
+.fa{
+text-decoration: none;
+color: blanchedalmond;
+}
+
+.terms{
+  text-decoration: none;
+  color: blanchedalmond;
+
+}

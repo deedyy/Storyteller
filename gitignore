@@ -1,0 +1,9 @@
+//.gitignore
+
+*.pyc
+*`
+_pycache_
+myenv
+db.squilite3
+/static
+.DS_Store
